@@ -50,6 +50,21 @@ The project is implemented using ESP32 and MicroPython, making it inexpensive, s
 
 ---
 
+# 💻 Firmware Versions
+| Version     | Language | IDE         | Status |
+| ----------- | -------- | ----------- | ------ |
+| Arduino     | C++      | Arduino IDE | ✅     |
+| MicroPython | Python   | Thonny IDE  | ✅     |
+
+This project is available in two firmware implementations:
+
+- Arduino IDE (C++) using the ESP32 Arduino core.
+- MicroPython using Thonny IDE.
+
+Both versions provide the same functionality, allowing users to choose the development environment they prefer.
+
+---
+
 # 🛠 Hardware Used
 
 | Component | Quantity |
