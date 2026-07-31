@@ -1,6 +1,14 @@
-#define BLYNK_TEMPLATE_ID "TMPL3xXaLaFM_"
+/*************************************************
+ * IoT Smart Irrigation System
+ * Platform : ESP32
+ * Language : Arduino C++
+ * IDE      : Arduino IDE
+ * Cloud    : Blynk IoT
+ * Author   : Chinmay Yalawatti
+ *************************************************/
+#define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "Smart Irrigation System with ESP32"
-#define BLYNK_AUTH_TOKEN "MAgifsJ32VZovXsdfygeFY6IWfdhFLsLjfgjk7GbpUb"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 
 #define BLYNK_PRINT Serial
