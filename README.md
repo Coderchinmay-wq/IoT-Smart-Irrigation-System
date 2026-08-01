@@ -136,30 +136,11 @@ Mobile App
 
 ---
 
-# 📊 Flowchart
-
-(Add flowchart image here)
-
----
-
-# 🔌 Circuit Diagram
-
-(Add circuit diagram here)
-
----
-
 # 📷 Project Images
 
-(Add prototype photos)
+<img width="2048" height="1156" alt="implementation" src="https://github.com/user-attachments/assets/8a91cd00-079a-4eca-87f4-75c5d3f18367" />
 
 ---
-
-# 📱 Blynk Dashboard
-
-(Add dashboard screenshot)
-
----
-
 # ▶ Running the Project
 
 Clone the repository
